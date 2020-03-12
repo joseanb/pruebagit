@@ -17,13 +17,13 @@ function prueba4(){
 	return "ok";
 }
 
-function prueba2(){
+
+
+function prueba5(){
 	
-	console.log("prueba2");
+	console.log("prueba5");
 	return "ok";
 }
-
-
 
 
 

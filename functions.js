@@ -13,6 +13,7 @@ function prueba1(){
 
 function prueba4(){
 	
+	
 	console.log("prueba4");
 	return "ok";
 }

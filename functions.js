@@ -13,6 +13,9 @@ function prueba1(){
 
 function prueba4(){
 	
+	
+	
+	
 	console.log("prueba4");
 	return "ok";
 }
@@ -20,6 +23,7 @@ function prueba4(){
 
 
 function prueba5(){
+	
 	
 	console.log("prueba5");
 	return "ok";
